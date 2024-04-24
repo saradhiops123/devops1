@@ -1,1 +1,3 @@
-# College_Website
+# maven-project
+
+Simple Maven Project
