@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Madanapalli Institute of technology</title>
+    <title>College Website</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -49,38 +49,12 @@
     </header>
 
     <nav>
-        <a href="#">Home</a>
-        <a href="#">About</a>
-        <a href="#">Admissions</a>
-        <a href="#">Courses</a>
-        <a href="#">Contact</a>
+        <a href="home.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="admissions.html">Admissions</a>
+        <a href="courses.html">Courses</a>
+        <a href="contact.html">Contact</a>
     </nav>
-
-    <section>
-        <h2>About Us</h2>
-        <p>Welcome to our college website. We strive to provide quality education and opportunities for our students.</p>
-    </section>
-
-    <section>
-        <h2>Admissions</h2>
-        <p>Learn more about our admission process and how to apply to our college.</p>
-    </section>
-
-    <section>
-        <h2>Courses</h2>
-        <p>Explore the courses offered at our college and find the right program for you.</p>
-    </section>
-
-    <section>
-        <h2>Contact Us</h2>
-        <p>Have questions? Contact us at:</p>
-        <p>Email: info@college.com</p>
-        <p>Phone: 123-456-7890</p>
-    </section>
-
-    <footer>
-        <p>&copy; 2024 Our College. All rights reserved.</p>
-    </footer>
 
 </body>
 </html>
