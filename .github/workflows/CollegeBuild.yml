@@ -37,5 +37,5 @@ jobs:
       uses: actions/upload-artifact@v2
       with:
         name: webapp-1.0-SNAPSHOT.war
-        path: build/webapp-1.0-SNAPSHOT.war
+        path: /home/runner/work/College_Website/College_Website/webapp/target/webapp.war
 
