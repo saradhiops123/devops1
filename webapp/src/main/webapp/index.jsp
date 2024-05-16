@@ -48,13 +48,6 @@
         <h1>Welcome to Our College</h1>
     </header>
 
-    <nav>
-        <a href="home.html">Home</a>
-        <a href="about.html">About</a>
-        <a href="admissions.html">Admissions</a>
-        <a href="courses.html">Courses</a>
-        <a href="contact.html">Contact</a>
-    </nav>
 
 </body>
 </html>
