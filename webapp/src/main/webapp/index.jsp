@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE-edge">
 <meta name="viewport" content="width=device-width, intial-scale=1.0">
-<title>Jawahar Lal Nehru College Dehri-on-sone</title>
+<title>Madanapalle Inst Of Tech & Science</title>
 <link rel="stylesheet" href="css/style.css"/>
 <!--fav-icon-->
 <link rel="shortcut icon" href="images/favicon.png"/>
@@ -185,14 +185,9 @@ span.psw {
             </form>
           </div>
         <!-- login modal end  -->
-
-<<<<<<< HEAD
-=======
     <header>
-        <h1>Welcome to Our College</h1>
+        <h1>Welcome to All Students</h1>
     </header>
-
->>>>>>> 9ccd0147dcdc0166de8db58eeab4f6f4b0a983b8
 
         <!--main-content-->
         <div class="home-content">
@@ -200,9 +195,9 @@ span.psw {
             <!--text-->
             <div class="home-text" >
                 
-                <h3 style="color: white; letter-spacing: 3px;">Welcome to JLN College</h3>
+                <h3 style="color: white; letter-spacing: 3px;">Welcome to MITS College</h3>
                 <h1 style="color: white;"> Student Portal</h1>
-                <p style="color: white;">The purpose of Schools is to prepare students with promise
+                <p style="color: white;">The purpose of MITS College is to prepare students with promise
                     to enhance their intellectual, physical, social, emotional, spiritual,
                     and artistic growth so that they may realize their power for good
                     as citizens</p>
@@ -214,11 +209,11 @@ span.psw {
                 <img src="images/hero.png" width="500px" style="text-shadow: 20px 22px;"/>
                 <marquee width="100%" direction="left" onmouseover="this.stop();"
                 onmouseout="this.start();">
-                    <a href="#" style="color: white;">Addmission open of 13th August 2021, Stream BCA, BBA, Bio-Tech and Computer Science.</a>
+                    <a href="#" style="color: white;">Addmission open of 13th August 2024, Stream BCA, BBA, Bio-Tech and Computer Science.</a>
                     </marquee>
                     <marquee width="100%" direction="right" onmouseover="this.stop();"
                 onmouseout="this.start();">
-                    <a href="#" style="color: white;">Addmission open of 13th August 2021, Stream BCA, BBA, Bio-Tech and Computer Science.</a>
+                    <a href="#" style="color: white;">Addmission open of 13th August 2024, Stream BCA, BBA, Bio-Tech and Computer Science.</a>
                     </marquee>
             </div>
             
@@ -266,7 +261,7 @@ span.psw {
             <div class="box">
                 <img src="images/icon5.png">
                 <font>Computer Science</font>
-                <p>Lorem ipsum dolor sit amet, consectetur ad asese do eiusmod tempor incididunt utarla oreetdolo magna aliqua.</p>
+                <p>We Offer these courses</p>
                 <!--btn--------->
                 <a href="#">Apply Now</a>
             </div>
@@ -277,7 +272,7 @@ span.psw {
     
     <!--footer------------->
     <footer>
-        <p>Copyright (C) - 2021 | Developed By <a href="https://kush.lexdigital.in/">Lavkush Kumar </a> </p>
+        <p>Copyright (C) - 2021 | Developed By <a href="https://kush.lexdigital.in/">Saradhi Makkena </a> </p>
     </footer>
     <script>
         // Get the modal
