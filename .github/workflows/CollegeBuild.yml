@@ -10,7 +10,7 @@ name: College Website
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "college" ]
   pull_request:
     branches: [ "main" ]
   workflow_dispatch:
