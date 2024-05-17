@@ -34,7 +34,7 @@ jobs:
     - name: Build with Maven
       run: mvn clean install
     - name: Archive artifacts
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-artifact@v2
       with:
         name: webapp-1.0-SNAPSHOT.war
         path: /home/runner/work/College_Website/College_Website/webapp/target/webapp.war
@@ -47,7 +47,7 @@ jobs:
           cat /home/myuser/saradhi.txt
           echo "displayed text of saradhi.txt"
       - name: Download artifacts
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v2
         with:
           name: webapp-1.0-SNAPSHOT.war
           path: ./artifacts
