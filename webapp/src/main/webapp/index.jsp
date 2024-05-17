@@ -236,32 +236,32 @@ span.psw {
             <!--box-1-------->
             <div class="box">
                 <img src="images/icon5.png">
-                <font>Batchlor of Computer Application</font>
-                <p>Lorem ipsum dolor sit amet, consectetur ad asese do eiusmod tempor incididunt utarla oreetdolo magna aliqua</p>
+                <font>A.E</font>
+                <p>Agriculture Engineering</p>
                 <!--btn--------->
                 <a href="#">Apply Now</a>
             </div>
             <!--box-2-------->
             <div class="box">
                 <img src="images/icon5.png">
-                <font>Batchlor of Business Administration</font>
-                <p>Lorem ipsum dolor sit amet, consectetur ad asese do eiusmod tempor incididunt utarla oreetdolo magna aliqua.</p>
+                <font>A.I</font>
+                <p>Artificial Intelligence </p>
                 <!--btn--------->
                 <a href="#">Apply Now</a>
             </div>
             <!--box-3-------->
             <div class="box">
                 <img src="images/icon5.png">
-                <font>Bio-Technology</font>
-                <p>Lorem ipsum dolor sit amet, consectetur ad asese do eiusmod tempor incididunt utarla oreetdolo magna aliqua</p>
+                <font>I.T</font>
+                <p>Information Technology</p>
                 <!--btn--------->
                 <a href="#">Apply Now</a>
             </div>
             <!--box-4-------->
             <div class="box">
                 <img src="images/icon5.png">
-                <font>Computer Science</font>
-                <p>We Offer these courses</p>
+                <font>C.S.E</font>
+                <p>Computer Science And Engineering</p>
                 <!--btn--------->
                 <a href="#">Apply Now</a>
             </div>
