@@ -137,7 +137,7 @@ span.psw {
         
         <nav>
             <a href="#" class="logo">
-                <img src="images/logo.png" width="320px" />
+                <img src="images/logo.png" width="100px" height="100px"/>
             </a>
             <input class="menu-btn" type="checkbox" id="menu-btn"/>
             <label class="menu-icon" for="menu-btn">
@@ -229,7 +229,7 @@ span.psw {
         <!--heading----------->
         <div class="services-heading">
             <h2>OUR PROFESSIONAL COURSES</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur ad asese do eiusmod tempor incididunt utarla oreetdolo magna aliqua</p>
+            <p>Below are the Courses we offer</p>
         </div>
         <!--box-container----------------->
         <div class="box-container">
