@@ -186,6 +186,13 @@ span.psw {
           </div>
         <!-- login modal end  -->
 
+<<<<<<< HEAD
+=======
+    <header>
+        <h1>Welcome to Our College</h1>
+    </header>
+
+>>>>>>> 9ccd0147dcdc0166de8db58eeab4f6f4b0a983b8
 
         <!--main-content-->
         <div class="home-content">
