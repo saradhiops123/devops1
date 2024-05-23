@@ -39,7 +39,7 @@ jobs:
         name: webapp-1.0-SNAPSHOT.war
         path: /home/runner/work/College_Website/College_Website/webapp/target/webapp.war
   Deploy:
-    runs-on: self-hosted
+    runs-on: new-server
     steps:
       - name: Java Maven
         run: |
