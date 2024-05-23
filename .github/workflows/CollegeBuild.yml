@@ -57,8 +57,8 @@ jobs:
           echo "display artifacts"
           ls -ltr ./artifacts
           cp -f ./artifacts/webapp.war  /opt/tomcat/apache-tomcat-9.0.89/webapps
-
-          /opt/tomcat/apache-tomcat-9.0.89/bin/startup.sh
+          nohup /opt/tomcat/apache-tomcat-9.0.89/bin/startup.sh &
+          continue-on-error: true
           echo "completed"
           
 
