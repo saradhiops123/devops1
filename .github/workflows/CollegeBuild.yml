@@ -45,7 +45,6 @@ jobs:
       - name: Java Maven
         run: |
           echo "display text of saradhi.txt"
-          cat /home/myuser/saradhi.txt
           echo "displayed text of saradhi.txt"
       - name: Download artifacts
         uses: actions/download-artifact@v4
