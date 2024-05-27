@@ -39,7 +39,7 @@ jobs:
         name: webapp.war
         path: /home/runner/work/College_Website/College_Website/webapp/target/webapp.war
   Deploy:
-    runs-on: new_server
+    runs-on: myhost
     needs: build
     steps:
       - name: Java Maven
